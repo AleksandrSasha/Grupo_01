@@ -1,0 +1,27 @@
+[
+    {
+        "img": "/images/Doraemon.jpg",
+        "titulo": "Doraemon",
+        "sinopsis": "Nobita viaja con Doraemon al pasado para reencontrarse con su abuela, ya fallecida en el presente. Secuela de la película «Stand by Me Doraemon» y a su vez, remake del mediometraje «Doraemon: Obāchan no Omoide."
+    },
+    {
+        "img": "/images/Dragon-ball_super_hero.jpg",
+        "titulo": "Dragon Ball Super Hero",
+        "sinopsis": "Después de los eventos devastadores de 'Avengers: Infinity War', el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar detenerlo y restaurar el orden en el universo de una vez por todas."
+    },
+    {
+        "img": "/images/grave-of-the-fireflies.jfif",
+        "titulo": "La Tumba de las Luciernagas",
+        "sinopsis": "El general romano Máximo es el soporte más leal del emperador Marco Aurelio, que lo ha conducido de victoria en victoria. Sin embargo, Cómodo, el hijo de Marco Aurelio, está celoso del prestigio de Máximo y aún más del amor que su padre siente por él. Cuando Cómodo llega al poder ordena el arresto del general y su asesinato. Máximo escapa de sus asesinos, pero no puede evitar la muerte de su familia. Entonces se convierte en gladiador para llevar a cabo su venganza."
+    },
+    {
+        "img": "/images/Your_Name.jpg",
+        "titulo": "Your name",
+        "sinopsis": "El legendario asesino John Wick se ve obligado a salir de su retiro por culpa de un exsocio que intenta controlar un siniestro grupo internacional de asesinos. Obligado a ayudarle por un juramento de sangre, John viaja a Roma para enfrentarse a algunos de los asesinos más letales del mundo."
+    },
+    {
+        "img": "/images/Siempre a tu lado.jpg",
+        "titulo": "Siempre a tu Lado",
+        "sinopsis": "Maléfica es una bella joven de corazón puro que vive una vida idílica en su reino del bosque. Cuando un ejército invasor pone en peligro el reino, Maléfica se erige como la temible protectora del bosque. Sin embargo, una despiadada traición endurece su corazón y la convierte en una criatura en busca de venganza. Maléfica empieza una batalla contra el sucesor del rey y lanza una maldición contra su hija Aurora. Sin embargo, se da cuenta de que la joven es la única que puede traer la paz al reino."
+    }
+]
